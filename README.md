@@ -66,7 +66,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/data-analysis-theory-practice.git
+    git clone https://github.com/minzi03/DA-IE224.git
     ```
 2. Set up a virtual environment and install required libraries (found in `requirements.txt`).
 3. Follow along with each chapter to build foundational knowledge and complete the practice exercises.
